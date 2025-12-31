@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /* global hexo */
 "use strict";
 if (typeof hexo === "undefined") {

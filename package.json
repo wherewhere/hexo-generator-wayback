@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-wayback",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate and upload Hexo posts to Wayback Machine.",
   "main": "index.js",
   "bin": {

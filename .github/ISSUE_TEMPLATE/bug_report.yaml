@@ -32,6 +32,7 @@ body:
       description: Specify the version of hexo-generator-wayback you're using.
       options:
         - Latest Source
+        - 0.0.2
         - 0.0.1
         - Others
   - type: dropdown
