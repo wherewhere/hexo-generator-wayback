@@ -1,0 +1,48 @@
+{
+  "name": "hexo-generator-wayback",
+  "version": "0.0.1",
+  "description": "Generate and upload Hexo posts to Wayback Machine.",
+  "main": "index.js",
+  "bin": {
+    "hexo-generator-wayback": "index.js",
+    "hgw": "index.js"
+  },
+  "keywords": [
+    "hexo",
+    "wayback",
+    "generator",
+    "api",
+    "csv",
+    "sheets"
+  ],
+  "homepage": "https://github.com/wherewhere/hexo-generator-wayback",
+  "bugs": {
+    "url": "https://github.com/wherewhere/hexo-generator-wayback/issues"
+  },
+  "license": "MIT",
+  "author": "wherewhere7",
+  "contributors": [
+    "wherewhere"
+  ],
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/wherewhere"
+    },
+    {
+      "type": "爱发电",
+      "url": "http://afdian.com/@wherewhere"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wherewhere/hexo-generator-wayback.git"
+  },
+  "dependencies": {
+    "csv": "^6.0.0",
+    "fetchline": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/hexo": "^3.0.0"
+  }
+}
