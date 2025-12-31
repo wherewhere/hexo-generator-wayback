@@ -1,11 +1,11 @@
 {
   "name": "hexo-generator-wayback",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate and upload Hexo posts to Wayback Machine.",
   "main": "index.js",
   "bin": {
-    "hexo-generator-wayback": "index.js",
-    "hgw": "index.js"
+    "hexo-generator-wayback": "main.js",
+    "hgw": "main.js"
   },
   "keywords": [
     "hexo",
